@@ -14,7 +14,7 @@ Life-Flow Dashboard is a simple, clean, and responsive productivity web app that
 
 ## 🖼️ Demo Preview
 
-👉 Live Demo: [https://yourusername.github.io/life-flow-dashboard](#)
+👉 Live Demo: sensational-faun-a59246.netlify.app
 
 ---
 
